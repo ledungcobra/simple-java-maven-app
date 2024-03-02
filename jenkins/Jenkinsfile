@@ -27,7 +27,7 @@ pipeline {
 
         stage('Complete') {
             steps {
-                echo "DONE"
+                echo "Done hello world for git SCM auto polling"
             }
         }
     }
